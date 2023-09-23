@@ -1,5 +1,7 @@
 .Navbar{
-    background-color: blue;
+    background-color:grey;
     height: 5vh;
     width:100vw;
+    display: flex;
+    align-items: center;
 }
