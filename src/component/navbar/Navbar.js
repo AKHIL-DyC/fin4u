@@ -6,7 +6,13 @@ export default function Navbar (){
   return (
     <div className={styles.Navbar}>
       <div className={styles.logo}>FIN4U</div>
-      <div className={styles.linkContainer}></div>
+      <div className={styles.linkContainer}>
+      <Link href='/'>Home</Link>
+      <Link href='/chatbot'>Chat</Link>
+      <Link href='/rate'>Rate</Link>
+      <Link href='/news'>News</Link>
+      <Link href='/about'>About</Link>
+      </div>
     </div>
   )
 }

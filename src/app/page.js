@@ -4,7 +4,7 @@ import styles from './page.module.css'
 export default function Home() {
   return (
     <>
-    <div className={styles.main}> heltyty</div>
+    <div className={styles.main}> home</div>
     </>
   )
 }

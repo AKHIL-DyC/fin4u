@@ -1,7 +1,13 @@
 .Navbar{
     background-color:grey;
     height: 5vh;
-    width:100vw;
     display: flex;
     align-items: center;
+    justify-content: space-between;
+}
+.linkContainer{
+    display: flex;
+    width:30vw;
+    align-items: center;
+    justify-content: space-between;
 }
