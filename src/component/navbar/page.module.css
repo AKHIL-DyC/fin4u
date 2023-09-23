@@ -8,6 +8,7 @@
 .linkContainer{
     display: flex;
     width:30vw;
-    align-items: center;
+    gap:3px;
+     align-items: center;
     justify-content: space-between;
 }

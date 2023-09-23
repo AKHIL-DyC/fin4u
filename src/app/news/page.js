@@ -37,8 +37,8 @@ export default function Home() {
 
         {data && data.articles.map((d, index) => (
           <div key={index}>
-            <div>{d.author}</div>
-            <div>{d.title}</div>
+            <div className={styles.author}>{d.author}</div>
+            <div className={styles.title}>{d.title}</div>
           </div>
         ))}
       </main>

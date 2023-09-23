@@ -1,3 +1,13 @@
 .main{
-    height: 100vh;
+height: fit-content;
+}
+.title{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width:80vw;
+    height: 10vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    border-bottom: 5px silver solid;
 }
