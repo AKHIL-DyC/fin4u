@@ -1,4 +1,32 @@
 .main{
+    display: flex;
     background-color: black;
+    width: 100vw;
     height: 92vh;
+    align-items: center;
+}
+
+.textcontainer{
+    padding-top: 10vh;
+    padding-left: 10vh;
+    font-size: 10vh;
+    height: 40vh;
+    width: 50vw;
+}
+.imagecontainer{
+    height: 60vh;
+    width: 40vw;
+}
+
+.img{
+    border-radius: 20px;
+    object-fit: cover;
+    width: inherit;
+    height: inherit;
+}
+
+.subtextcontainer{
+    font-size: 4vh;
+
+
 }

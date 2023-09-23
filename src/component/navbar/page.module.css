@@ -1,13 +1,18 @@
 .Navbar{
-    background-color:grey;
     height: 5vh;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-top: 1%;
 }
 .linkContainer{
     display: flex;
+    padding-right: 2%;
     width:30vw;
     align-items: center;
     justify-content: space-between;
+}
+
+.logo{
+    padding-left: 3%;
 }
