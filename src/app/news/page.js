@@ -33,7 +33,8 @@ export default function Home() {
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="icon" href="/favicon.ico" />
       <main className={styles.main}>
-        <button onClick={grabNews}>Show Latest News</button>
+        <button className = {styles.button} onClick={grabNews}> Click here  </button>
+        
 
         {data && data.articles.map((d, index) => (
           <div key={index}>

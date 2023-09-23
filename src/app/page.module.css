@@ -1,12 +1,13 @@
 .main{
     display: flex;
-    background-color: black;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
     width: 100vw;
-    height: 92vh;
+    height: 91vh;
     align-items: center;
 }
 
 .textcontainer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-top: 10vh;
     padding-left: 10vh;
     font-size: 10vh;
@@ -26,7 +27,7 @@
 }
 
 .subtextcontainer{
-    font-size: 4vh;
+    font-size: 3vh;
 
 
 }

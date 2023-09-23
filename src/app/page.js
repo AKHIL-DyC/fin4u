@@ -9,7 +9,8 @@ export default function Home() {
     <div className={styles.textcontainer}>
       Fin4U
       <div className={styles.subtextcontainer}>
-      The Financial support for you
+      Smart Investing Made Simple: 
+      Welcome to Fin4U
       </div>
     </div>
     <div className={styles.imagecontainer}>

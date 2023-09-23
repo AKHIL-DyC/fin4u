@@ -1,5 +1,7 @@
 .main{
-height: fit-content;
+    height: 92vh;
+    padding-top: 5vh;
+    padding-left: 5vh;
 }
 .title{
     display:flex;
@@ -10,4 +12,16 @@ height: fit-content;
     padding-top: 3vh;
     padding-bottom: 3vh;
     border-bottom: 5px silver solid;
+}
+
+.button{
+    font-size: 3vh;
+    background-color: transparent;
+    color:white;
+    width: fit-content;
+    align-self: center;
+    border: none;
+    outline: none;
+    border: 4px solid rgb(113, 110, 110);
+    border-radius: 10%;
 }

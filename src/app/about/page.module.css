@@ -1,1 +1,16 @@
+.main{
+    height: 92vh;
+  
+}
 
+.heading{
+    padding-top: 5vh;
+    padding-left: 3vh;
+    font-size: 5vh;
+}
+
+.sub{
+    width: 95%;
+    padding-top: 5vh;
+    padding-left: 2vh;
+}

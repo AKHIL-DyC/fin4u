@@ -1,6 +1,7 @@
 import React from 'react'
 import styles from './page.module.css'
 import Link from 'next/link'
+import cover from 'public/cover.avif'
 
 export default function Navbar (){
   return (

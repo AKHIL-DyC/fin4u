@@ -1,5 +1,5 @@
 .Navbar{
-    height: 5vh;
+    height: 6vh;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -10,10 +10,12 @@
     padding-right: 2%;
     width:30vw;
     gap:3px;
-     align-items: center;
+    align-items: center;
     justify-content: space-between;
+
 }
 
 .logo{
-    padding-left: 3%;
+    padding-left: 3vh;
 }
+
